@@ -1,0 +1,10 @@
+.git
+.vscode
+.gitignore
+README.md
+LICENSE
+instruction.txt
+data.json
+js/main2.js
+Dockerfile
+.dockerignore
